@@ -5,3 +5,5 @@
  </p>
 
 This is an example that runs through the data process of extracting, transforming and loading. Here, I extracted data from Wikipedia, Kaggle and MovieLens datasets and performed transformational steps, like data cleaning and merging the Wiki and Kaggle data into a movie data set. With the newly merged Wiki-Kaggle movie dataset and the MovieLens rating dataset, they were loaded from Python code into a PostgreSQL database to be analyzed further.
+
+**PLEASE NOTE:** The ratings.csv was too big to be uploaded onto github and is not included in the Resources folder.
